@@ -1,6 +1,6 @@
-# 🌐 KNET — Knowledge Network & Event Technology
+# <img src="knet-logo.png" align="right" width="230"> 🌐 KNET — Knowledge Network & Event Technology
 
-Welcome to the official GitHub Organization for **KNET**, our knowledge and technology network for reinventing event experiences. We represent **Accenture**, combining software engineering, infrastructure and human-centered innovation to create memorable experiences for corporate Summits.
+Welcome to the official GitHub Organization for **KNET**, our knowledge and technology network for reinventing event experiences. We represent [Accenture](https://accenture.com/), combining software engineering, infrastructure and human-centered innovation to create memorable experiences for corporate Summits.
 
 We're exploring how technology, data and artificial intelligence can transform the way attendees discover, interact, participate and build connections before, during and after an event. Our mission: *"Convert every event into lasting knowledge, meaningful connections and concrete action."*
 
@@ -13,7 +13,7 @@ Three Accenture engineers combining custom software engineering, infrastructure 
 | Avatar | Member | GitHub | Role |
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/AnderssonProgramming.png" width="45"> | **Andersson David Sánchez Méndez** | [@AnderssonProgramming](https://github.com/AnderssonProgramming) | Custom Software Engineering New Associate |
-| <img src="https://github.com/Killerzeus666.png" width="45"> | **Katheryn Guasca** | [@Killerzeus666](https://github.com/Killerzeus666) | Infra Managed Service New Associate |
+| <img src="https://github.com/Killerzeus666.png" width="45"> | **Katheryn Sofia Guasca Chavarro** | [@Killerzeus666](https://github.com/Killerzeus666) | Infra Managed Service New Associate |
 | <img src="https://github.com/pbclaro96.png" width="45"> | **Paola de Jesús Barros Claro** | [@pbclaro96](https://github.com/pbclaro96) | Infra Managed Service New Associate |
 
 ---
